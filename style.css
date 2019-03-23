@@ -1,0 +1,234 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.root {
+ width: 1440px;
+ height: 100vh;
+}
+.header{
+    height: 1174px;
+}
+.group27 {
+    width: 590px;
+    height: 96px;
+
+    display: flex;
+    align-items: center;
+    margin-top: 21px;
+    margin-left: 50px;
+}
+
+.menu{
+
+    color: #4b4b4b;
+    font-family: SofiaProRegular;
+    padding-top: 20px;
+}
+.menu a {
+    padding-left: 40px;
+}
+.logo{
+    width: 96px;
+    height: 96px;
+    filter: blur(5px);
+}
+.Illustration{
+    width: 1464px;
+    height: 1174px;
+    margin-top:-240px;
+    margin-left: 576px;
+    position: absolute;
+}
+.trustedAcc {
+    color: #4b4b4b;
+    font-family: SofiaProRegular;
+    font-size: 56px;
+    font-weight: 400;
+    line-height: 72px;
+}
+.odoszero-t {
+    width: 515px;
+    color: #4b4b4b;
+    font-family: SofiaProRegular;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 23px;
+    margin-top:47px;
+}
+.group3 {
+    width: 240px;
+    height: 62px;
+    background: #7a2fdd;
+    border-radius: 4px;
+    margin-top:47px;
+    color: #ffffff;
+    line-height: 24px;
+    text-align: center;
+}
+.group3Copy {
+    width: 240px;
+    height: 62px;
+    border: 1px solid #7a2fdd;
+    border-radius: 4px;
+    margin-top:47px;
+    margin-left: 35px;
+    line-height: 24px;
+    text-align: center;
+    background: none;
+}
+.info {
+    margin-top:95px;
+    margin-left: 96px;
+
+}
+.whatOdocan {
+    width: 384px;
+    height: 130px;
+    color: #4b4b4b;
+    font-family: SofiaProRegular;
+    font-size: 56px;
+    font-weight: 400;
+    line-height: 65px;
+    margin-top:66px;
+}
+.icon-1 .icon-2 .icon-3 .icon-4 .icon-5 {
+    width: 192px;
+    height: 192px;
+}
+.headline{
+    width: 360px;
+    height: 40px;
+    color: #4b4b4b;
+    font-family: SofiaProRegular;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+}
+.info-text{
+    width: 360px;
+    height: 40px;
+    color: #4b4b4b;
+    font-family: SofiaProRegular;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+}
+.block-menu{
+    width: 50%;
+}
+.block-1{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 241px;
+}
+.wOc-block{
+    margin-top:66px;
+}
+.Network-access{
+    margin-top:230px;
+    margin-left: 170px;
+}
+.networkacc{
+    width: 1100px;
+    height: 1844px;
+}
+
+
+
+.securitywi {
+    width: 382,1px;
+    height: 112px;
+    color: #4b4b4b;
+    font-family: SofiaProRegular;
+    font-size: 52px;
+    font-weight: 400;
+    line-height: 56px;
+    letter-spacing: -0,1677419px;
+}
+.werethosep {
+    width: 508px;
+    height: 110px;
+    color: #4b4b4b;
+    font-family: SofiaProRegular;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 22px;
+    margin-top:52px;
+}
+.atOdoweund {
+    width: 460px;
+    height: 176px;
+    color: #4b4b4b;
+    font-family: SofiaProRegular;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 22px;
+    margin-top:63px;
+}
+.groupCopy2 {
+    width: 160px;
+    height: 40px;
+    color: #7a2fdd;
+    font-family: SofiaProSemiBold;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: center;
+    border: 1px solid #7a2fdd;
+    border-radius: 3px;
+    background: none;
+}
+.block-3{
+    margin-left: 150px;
+    margin-top:37px;
+    width: 508px;
+    position: absolute;
+}
+.pexels-photo{
+    width: 851px;
+    height: 667px;
+
+    margin-left: 646px;
+
+}
+.careers {
+    width: 170,09px;
+    height: 56px;
+    color: #4b4b4b;
+    font-family: SofiaProRegular;
+    font-size: 52px;
+    font-weight: 400;
+    line-height: 56px;
+
+    margin-left: 646px;
+    margin-top:124px;
+
+}
+.odoissecur {
+    width: 820px;
+    height: 92px;
+    color: #4b4b4b;
+    font-family: SofiaProRegular;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    text-align: center;
+    margin-left: 310px;
+    margin-top:31px;
+}
+.block-4{
+    margin-top:343px;
+    height: 667px;
+}
+.group18 {
+    width: 460px;
+    height: 212px;
+    box-shadow: 0px 1px  7px rgba(0,0,0,0,1);
+    border: 1px solid #f4f4f4;
+    background: #ffffff;
+    border-radius: 8px;
+}
+
+
